@@ -11,4 +11,4 @@
         for s in txt:
             self.textEdit_words.insertPlainText(s[::2]+"\n")
             
-            ```
+         
